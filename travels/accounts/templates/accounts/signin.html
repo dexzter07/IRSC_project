@@ -1,0 +1,9 @@
+  
+{% extends 'hotels/base.html' %}
+
+{% block content %}
+  <h2>Log In</h2>
+  <p class="lead">Select below the type of account you want to login</p>
+  <a href="{% url 'accounts:login' %}" class="btn btn-hotel btn-warning btn-lg" role="button">Hotel</a>
+  <a href="{% url 'customer:login' %}" class="btn btn-visitor btn-danger btn-lg" role="button">Customer</a>
+{% endblock %}

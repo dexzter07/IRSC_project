@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb4c3260-a488-4284-af3c-d25a8054c86a" name="Default Changelist" comment="" />
+    <list default="true" id="bb4c3260-a488-4284-af3c-d25a8054c86a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travels/accounts/templates/accounts/signin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travels/templates/hotels/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/travels/hotels/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/static/accounts/accounts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/static/accounts/accounts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/travels/accounts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/accounts/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/travels/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/hotels/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/travels/hotels/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/hotels/static/hotels/hotels.css" beforeDir="false" afterPath="$PROJECT_DIR$/travels/static/css/hotels.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/hotels/static/hotels/hotels.js" beforeDir="false" afterPath="$PROJECT_DIR$/travels/static/css/hotels.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/hotels/templates/hotels/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/travels/templates/hotels/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/hotels/templates/hotels/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/travels/templates/hotels/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/hotels/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/travels/hotels/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/hotels/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/travels/hotels/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/travels/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/travels/travels/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travels/travels/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/travels/travels/urls.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,18 +42,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RERUrDcxlnTusafAHOkRaa1Zk4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/travels/customer" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dexzter\Desktop\IRSC_project\travels\hotels" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dexzter\Desktop\IRSC_project\travels\customer" />
       <recent name="C:\Users\dexzter\Desktop\IRSC_project\travels" />
-      <recent name="C:\Users\dexzter\Desktop\IRSC_project\travels\hotels\templates\hotels" />
-      <recent name="C:\Users\dexzter\Desktop\IRSC_project\travels\hotels\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dexzter\Desktop\IRSC_project\travels\accounts\templates\accounts" />
+      <recent name="C:\Users\dexzter\Desktop\IRSC_project\travels\templates\hotels" />
+      <recent name="C:\Users\dexzter\Desktop\IRSC_project\travels" />
       <recent name="C:\Users\dexzter\Desktop\IRSC_project\travels\accounts" />
+      <recent name="C:\Users\dexzter\Desktop" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,5 +94,18 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
